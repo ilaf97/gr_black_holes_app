@@ -1,0 +1,26 @@
+PODS:
+  - Charts (3.2.2):
+    - Charts/Core (= 3.2.2)
+  - Charts/Core (3.2.2)
+  - Highcharts (6.1.4)
+  - SwiftChart (1.0.1)
+
+DEPENDENCIES:
+  - Charts
+  - Highcharts (~> 6.1.0)
+  - SwiftChart
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - Highcharts
+    - SwiftChart
+
+SPEC CHECKSUMS:
+  Charts: f69cf0518b6d1d62608ca504248f1bbe0b6ae77e
+  Highcharts: a1d99de1c075fd9acedf25cde4f6e4a54266b25e
+  SwiftChart: ba767a678d568a5ee22d419e146a0582865e1aff
+
+PODFILE CHECKSUM: 90111c820eca61c33870a2be1fb2b961afb85ea8
+
+COCOAPODS: 1.6.1
